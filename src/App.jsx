@@ -228,7 +228,7 @@ export default function SandikaPortfolio() {
             <a href="https://wa.me/6287864772970" target="_blank" rel="noopener noreferrer" className="rounded-xl bg-green-500 px-6 py-4 font-extrabold text-slate-950 transition hover:-translate-y-1">
               💬 WhatsApp
             </a>
-            <a href="https://linkedin.com/in/usernamekamu" target="_blank" rel="noopener noreferrer" className="rounded-xl bg-[#0a66c2] px-6 py-4 font-extrabold text-white transition hover:-translate-y-1">
+            <a href="https://www.linkedin.com/in/sandikadwiwibowo" target="_blank" rel="noopener noreferrer" className="rounded-xl bg-[#0a66c2] px-6 py-4 font-extrabold text-white transition hover:-translate-y-1">
               💼 LinkedIn
             </a>
           </div>

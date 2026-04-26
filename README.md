@@ -21,12 +21,12 @@ Personal portfolio website to showcase my profile, skills, projects, and contact
 
 ## 📸 Preview
 
-![Portfolio Preview](assets/preview.png)
+![Portfolio Preview](src/assets/preview.png)
 
 ## 📬 Contact
 
 - Email: sandikaa214@gmail.com
-- LinkedIn: https://linkedin.com/in/usernamekamu
+- LinkedIn: https://https://www.linkedin.com/in/sandikadwiwibowo
 
 ---
 
